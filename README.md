@@ -5,6 +5,11 @@ Here is a link to our blog which we post progress updates and such on: https://s
 
 Note: The original repository was kept on under the school organization, so I forked it here for easier access.  
 
+## Technologies Used
+* Firebase for authentication
+* Java
+* Android Studio
+
 ### Contributers
 [Bryson Adcock](https://github.com/brysonadcock)
 [Ember Clark](https://github.com/JennaEMorgan)
